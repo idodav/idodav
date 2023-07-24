@@ -3,6 +3,8 @@
 Technological enthusiast and a programmer from a very young age. 
 Senior developer. BSc.Computer science.
 
+![](https://komarev.com/ghpvc/?username=idodav)
+
 ![idodav's Stats](https://github-readme-stats.vercel.app/api?username=idodav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![idodav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=idodav&theme=vue-dark&hide_border=true)
